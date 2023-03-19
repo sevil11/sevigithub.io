@@ -1,0 +1,33 @@
+img {
+    width: 1360px;
+    height: 110px;
+
+}
+
+body {
+    background-image: url('images/background.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#banner {
+    position: relative;
+}
+
+.banner-links {
+    position: absolute;
+    top: 40px;
+    right: 530px;
+}
+
+.banner-links a {
+    margin-left: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+#banner a {
+    padding-right: 45px;
+  }
+  
